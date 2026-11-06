@@ -1,4 +1,11 @@
-﻿namespace ArraysAndLists;
+/*
+ * name: Eremei Mironov
+ * course: ctec 135
+ * assignment: programming assignment 5, task 1
+ * date: 11/06/2026
+ */
+
+namespace ArraysAndLists;
 
 class Program
 {

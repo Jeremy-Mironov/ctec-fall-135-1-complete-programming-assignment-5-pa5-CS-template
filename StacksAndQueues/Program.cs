@@ -1,4 +1,11 @@
-﻿namespace StacksAndQueues;
+/*
+ * name: Eremei Mironov
+ * course: ctec 135
+ * assignment: programming assignment 5, task 2
+ * date: 11/06/2026
+ */
+
+namespace StacksAndQueues;
 
 class Program
 {
